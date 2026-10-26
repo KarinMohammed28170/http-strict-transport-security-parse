@@ -1,6 +1,6 @@
 {
   "name": "http-strict-transport-security-parse",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parses HSTS headers into structured policy objects, extracting max-age, includeSubDomains, and preload directives with proper case-insensitive handling.",
   "type": "module",
   "main": "src/index.js",
